@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanskar Yadav</h1>
+<h1 align="center">Hi 👋, I'm Shri Narayan</h1>
 <h3 align="center">Java Developer | DSA Enthusiast | LeetCode Solver</h3>
 
 <p align="center">
@@ -13,7 +13,6 @@
 - 💻 Passionate about Data Structures & Algorithms
 - ☕ Java Developer
 - 🗄️ Skilled in MySQL
-- 🌐 Learning Full-Stack Web Development
 - 🏆 Regular LeetCode Problem Solver
 - 🚀 Aspiring Software Engineer
 
@@ -77,13 +76,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-🔹 Add your best projects here
-
-- Project 1 - Description
-- Project 2 - Description
-- Project 3 - Description
 
 ---
 
